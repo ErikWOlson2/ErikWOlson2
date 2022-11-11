@@ -1,18 +1,21 @@
-;;; ----------------------------------------------------------- 
-;;;  ErikWOlson2, Valley LISP Consulting
-;;; ----------------------------------------------------------- 
+;;; -----------------------------------------------------------  
+;;;       ErikWOlson2, Valley LISP Consulting  
+;;; -----------------------------------------------------------   
 
 ;    80x86 assembler, when necessary
 
-/*   Ancient C   */
-/*   and SQL     */
+/*   Ancient C   \*/  
+/*   and SQL     \*/
 
 //   Dated C++, more recently C#
 
 ' Hate [Visual] Basic
 
-#   Lots of UNIX, XENIX, Linux ...
+\#   Lots of UNIX, XENIX, Linux ...
 
-#   Python has two serious defects \
-    1 - lack of delimiter, and \
-    2 - inability to assign inside conditionals
+\#   Python has two serious defects:   \\  
+    requirement to indent rather than explicit delimiter, and   \\  
+    inability to assign inside conditionals  
+<td></td>
+
+// EOF  
