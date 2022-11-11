@@ -11,7 +11,7 @@
 
 ' Hate [Visual] Basic
 
-\#   Lots of UNIX, XENIX, Linux ...
+\#   Lots of DOS, Windows, UNIX, XENIX, Linux ...
 
 \#   Python has two serious defects:   \\  
     requirement to indent rather than explicit delimiter, and   \\  
